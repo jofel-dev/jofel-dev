@@ -2,7 +2,7 @@
 
 <!-- Resized banner -->
 <p align="center">
-  <img src="rocky2.jpg" alt="Banner" width="100%" height="600px" />
+  <img src="quote.jpg" alt="Banner" width="100%" height="600px" />
 </p>
 
 ---
