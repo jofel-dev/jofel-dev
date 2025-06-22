@@ -2,14 +2,14 @@
 
 <!-- Resized banner -->
 <p align="center">
-  <img src="rocky2.jpg" alt="Banner" width="100%" height="400px" />
+  <img src="rocky2.jpg" alt="Banner" width="100%" height="600px" />
 </p>
 
 ---
 
 # Hey, I’m **Jofel** 👋
 
-<!-- Just the GitHub logo -->
+
 <p align="center">
   <a href="https://github.com/jofel-dev" rel="nofollow">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="50" />
@@ -25,7 +25,7 @@
 ## 🚀 Featured Projects
 
 <details>
-<summary>🤖 Robotic Arm controlled by gestures</summary>
+<summary> Robotic Arm controlled by gestures</summary>
 
 **Tech**: ESP-NOW, PCA9685, MPU6050  
 **Highlights**:
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary>🌱 Water Quality Indicator for Agriculture and Mining</summary>
+<summary> Water Quality Indicator for Agriculture and Mining</summary>
 
 **Tech**: XAMPP → MySQL, Arduino IDE, PHP  
 **Highlights**:
