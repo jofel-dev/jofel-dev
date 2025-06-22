@@ -1,8 +1,7 @@
 # 📘 Portfolio & Projects
 
-<!-- Add a banner image at the top → replace `banner.png` with your file -->
-
-![Banner](./assets/banner.png)
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrightdrops.com%2Fmovie-quotes&psig=AOvVaw0Ig8JhMESV67tEpYWZSLh1&ust=1750695837658000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDk4-y4hY4DFQAAAAAdAAAAABAE![Uploading image.png…]()
+)
 
 ---
 
@@ -21,30 +20,27 @@
 ## 🚀 Featured Projects
 
 <details>
-<summary>Robotic Arm controlled by gestures🤖</summary >
+<summary>🤖 Robotic Arm controlled by gestures</summary>
 
-* **Tech**: ESP-NOW, PCA9685, MPU6050
+* **Tech**: ESP-NOW, PCA9685, MPU6050  
 * **Highlights**:
-
-  * Real-time gesture capture
-  * Smooth servo control for precision
-* ![Glove Demo](./assets/glove-demo.gif)
+  - Real-time gesture capture  
+  - Smooth servo control for precision  
+* ![Glove Demo](assets/glove-demo.gif)
 
 </details>
 
 <details>
-<summary>Water Quality Indicator for Agriculture and Mining purposes 🌱</summary>
+<summary>🌱 Water Quality Indicator for Agriculture and Mining</summary>
 
-* **Tech**: XAMPP Control Panel → MySQL, Arduino IDE , PHP
+* **Tech**: XAMPP → MySQL, Arduino IDE, PHP  
 * **Highlights**:
-
-  * 4-parameter model (pH, Temperature, TDS, Turbidity)
-  * Live dashboard integration
-* <img src="./assets/soil-dashboard.png" width="400" />
+  - 4-parameter model (pH, Temperature, TDS, Turbidity)  
+  - Live dashboard integration  
+* <img src="assets/soil-dashboard.png" width="400" />
 
 </details>
 
-<details>
 ---
 
 ## 🛠️ Tech Stack
