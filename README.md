@@ -1,17 +1,18 @@
 # 📘 Portfolio & Projects
 
-<!-- Full-width banner, auto height -->
+<!-- Resized banner -->
 <p align="center">
-  <img src="rocky2.jpg" alt="Banner" style="width:100%; height:auto;" />
+  <img src="rocky2.jpg" alt="Banner" width="100%" height="250px" />
 </p>
 
 ---
 
 # Hey, I’m **Jofel** 👋
 
+<!-- Just the GitHub logo -->
 <p align="center">
-  <a href="https://github.com/jofel-dev">
-    <img src="https://img.shields.io/github/followers/jofel?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://github.com/jofel-dev" rel="nofollow">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="50" />
   </a>
 </p>
 
@@ -65,12 +66,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <!-- Gmail “M” icon -->
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
     <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="50" />
   </a>
   &nbsp;&nbsp;
-  <!-- Professional LinkedIn logo -->
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" />
   </a>
