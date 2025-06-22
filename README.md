@@ -1,13 +1,13 @@
-# 📘 🔧 Systems, Sparks & Syntax 
+#  🔧 Systems, Sparks & Syntax 
 
-<!-- Resized banner -->
+<!-- banner -->
 <p align="center">
   <img src="quote.jpg" alt="Banner" width="100%" height="500px" />
 </p>
 
 ---
 
-# Hey, I’m **Jofel** 👋
+# Hey, **Jofel** here 👋
 
 
 <p align="center">
@@ -16,9 +16,7 @@
   </a>
 </p>
 
-## 💥 _About Me_
-
-> __"I’m Jofel, an Electronics & Communications engineer hardware. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech."__
+> __"I’m Jofel, an Electronics & Communications engineer. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech."__
 
 ---
 
