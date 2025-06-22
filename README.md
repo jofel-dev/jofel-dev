@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://github.com/jofel-dev">
-    <img src="https://img.shields.io/github/followers/jofel?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -69,11 +68,11 @@
 <p align="center">
   <!-- clickable mailto and LinkedIn -->
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/Email-jofelpj%40gmail.com-lightgrey" alt="Email" height="40" />
+    <img src="https://img.shields.io/badge/Email-%40gmail.com-red" alt="Email" height="50" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-jofelpj-blue" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn" height="50" />
   </a>
 </p>
 
