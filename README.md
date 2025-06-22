@@ -2,7 +2,7 @@
 
 <!-- Full-width banner, auto height -->
 <p align="center">
-  <img src="quote.jpg" alt="Banner" style="width:100%; height:auto;" />
+  <img src="rocky2.jpg" alt="Banner" style="width:100%; height:auto;" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ## 🚀 Featured Projects
 
 <details>
-<summary>🤖 **Robotic Arm controlled by gestures**</summary>
+<summary>🤖 Robotic Arm controlled by gestures</summary>
 
 **Tech**: ESP-NOW, PCA9685, MPU6050  
 **Highlights**:
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary>🌱 **Water Quality Indicator for Agriculture and Mining**</summary>
+<summary>🌱 Water Quality Indicator for Agriculture and Mining</summary>
 
 **Tech**: XAMPP → MySQL, Arduino IDE, PHP  
 **Highlights**:
