@@ -9,13 +9,12 @@
 # Hey, I’m **Jofel** 👋
 
 <p align="center">
-  <a href="https://github.com/jofel"><img src="https://komarev.com/ghpvc/?username=jofel" alt="Profile views" /></a>
   <a href="https://github.com/jofel"><img src="https://img.shields.io/github/followers/jofel?label=Follow&style=social" alt="GitHub followers" /></a>
 </p>
 
 ## 💥 About Me
 
-> "I’m Jofel, an Electronics & Communications engineer hardware. From gesture-controlled robotic arms to predictive soil-quality models, I design and deploy end-to-end IoT solutions using ESP32, Python, and more. Exploring new tech."
+> "I’m Jofel, an Electronics & Communications engineer hardware. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech."
 
 ---
 
