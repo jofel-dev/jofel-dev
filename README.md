@@ -1,8 +1,8 @@
-# 📘 Portfolio & Projects
+# 📘 🔧 Systems, Sparks & Syntax 
 
 <!-- Resized banner -->
 <p align="center">
-  <img src="quote.jpg" alt="Banner" width="100%" height="600px" />
+  <img src="quote.jpg" alt="Banner" width="100%" height="500px" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ## 💥 _About Me_
 
-> _"I’m Jofel, an Electronics & Communications engineer hardware. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech."_
+> __"I’m Jofel, an Electronics & Communications engineer hardware. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech."__
 
 ---
 
@@ -77,6 +77,3 @@
 
 ---
 
-<p align="center">
-  <em>Jofel P Jestin</em>
-</p>
