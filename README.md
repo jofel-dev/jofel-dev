@@ -16,7 +16,7 @@
   </a>
 </p>
 
-> __"I’m Jofel, an Electronics & Communications engineer. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech."__
+> __I’m Jofel, an Electronics & Communications engineer. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech.__
 
 ---
 
