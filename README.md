@@ -1,7 +1,9 @@
 # 📘 Portfolio & Projects
 
-<!-- Make sure this path & filename exactly match your repo (case-sensitive). If you uploaded `quote.jpg` to the repo root: -->
-![Banner](quote.jpg)
+<!-- Full-width banner, auto height -->
+<p align="center">
+  <img src="quote.jpg" alt="Banner" style="width:100%; height:auto;" />
+</p>
 
 ---
 
@@ -9,6 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/jofel-dev">
+    <img src="https://img.shields.io/github/followers/jofel?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -49,16 +52,12 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- three per row, bigger via height attribute -->
   <img src="https://img.shields.io/badge/C%2F%2B%2B-blue" alt="C/C++" height="50" />
   <img src="https://img.shields.io/badge/Python-yellow" alt="Python" height="50" />
-  <img src="https://img.shields.io/badge/ESP32-teal" alt="ESP32" height="50" />
-  <br>
+  <img src="https://img.shields.io/badge/ESP32-teal" alt="ESP32" height="50" /><br>
   <img src="https://img.shields.io/badge/Arduino-lightgrey" alt="Arduino" height="50" />
   <img src="https://img.shields.io/badge/KiCad-red" alt="KiCad" height="50" />
   <img src="https://img.shields.io/badge/MySQL-blueviolet" alt="MySQL" height="50" />
-  <br>
- 
 </p>
 
 ---
@@ -66,13 +65,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <!-- clickable mailto and LinkedIn -->
+  <!-- Gmail “M” icon -->
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/Email-%40gmail.com-red" alt="Email" height="50" />
+    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="50" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <!-- Professional LinkedIn logo -->
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn" height="50" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" />
   </a>
 </p>
 
