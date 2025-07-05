@@ -2,7 +2,7 @@
 
 <!-- banner -->
 <p align="center">
-  <img src="quote.jpg" alt="Banner" width="100%" height="500px" />
+   <img src="quote.jpg" alt="Banner" style="width:100%; max-height:500px;" />
 </p>
 
 ---
@@ -10,11 +10,11 @@
 # Hey, **Jofel** here 👋
 
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/jofel-dev" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="24" />
   </a>
-</p>
+</div>
 
 > __I’m Jofel, an Electronics & Communications engineer. From gesture-controlled robotic arms to predictive models for agriculture, I strive to make a difference deploying tech.__
 
@@ -65,11 +65,11 @@
 
 <p align="center">
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
-    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="10" />
+    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="24" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="24" />
   </a>
 </p>
 
