@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <details>
 <summary><b>Robotic Arm controlled by gestures</b></summary>
