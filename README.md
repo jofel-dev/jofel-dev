@@ -50,20 +50,20 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/C%2F%2B%2B-blue" alt="C/C++" height="50" />
   <img src="https://img.shields.io/badge/Python-yellow" alt="Python" height="50" />
   <img src="https://img.shields.io/badge/ESP32-teal" alt="ESP32" height="50" /><br>
   <img src="https://img.shields.io/badge/Arduino-lightgrey" alt="Arduino" height="50" />
   <img src="https://img.shields.io/badge/KiCad-red" alt="KiCad" height="50" />
   <img src="https://img.shields.io/badge/MySQL-blueviolet" alt="MySQL" height="50" />
-</p>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
     <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="24px" />
   </a>
@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="24px" />
   </a>
-</p>
+</div>
 
 ---
 
