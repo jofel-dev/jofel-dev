@@ -62,14 +62,17 @@
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <div align="center">
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
-    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="24" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="24" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="24" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="24" />
   </a>
 </div>
+
 
 ---
