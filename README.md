@@ -65,11 +65,11 @@
 
 <p align="center">
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
-    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="15" />
+    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="10" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="15" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="10" />
   </a>
 </p>
 
