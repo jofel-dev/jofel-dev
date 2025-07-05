@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/jofel-dev" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="24" />
+    <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" height="24" />
   </a>
 </div>
 
@@ -59,8 +59,6 @@
 </div>
 
 ---
-
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
