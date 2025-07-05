@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/jofel-dev" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="24" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="24px" />
   </a>
 </div>
 
@@ -65,11 +65,11 @@
 
 <p align="center">
   <a href="mailto:jofelpj@gmail.com" rel="nofollow">
-    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="24" />
+    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" height="24px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jofelpj/" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="24" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="24px" />
   </a>
 </p>
 
