@@ -1,4 +1,4 @@
-# 🔧 Systems, Sparks &amp; Syntax 
+# 🔧 Sparks &amp; Syntax 
 
 <!-- Banner -->
 <div align="center">
